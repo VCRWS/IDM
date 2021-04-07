@@ -27,7 +27,7 @@ Below is the core schema for the IDM. The core of the IDM is based heavily on th
 ![IDM Diagram](documentation/IDM_diagram.png)
 
 ### Credits
-The data model described in this manuscript was developed using data and resources from the [Villanova Center for Resilient Water Systems (VCRWS)](https://www1.villanova.edu/university/engineering/faculty-research/Resilient-Water-Systems.html).  The data model described was inspired by and based on the [Cortsortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI)](https://www.cuahsi.org/) Observation Data Model (ODM) (Horsburgh et al., 2008), and [Observation Data Model 2 (ODM2)](https://github.com/ODM2/ODM2) (Horsburgh et al., 2016).
+The data model described in this repository was developed using data and resources from the [Villanova Center for Resilient Water Systems (VCRWS)](https://www1.villanova.edu/university/engineering/faculty-research/Resilient-Water-Systems.html).  The data model described was inspired by and based on the [Cortsortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI)](https://www.cuahsi.org/) Observation Data Model (ODM) (Horsburgh et al., 2008), and [Observation Data Model 2 (ODM2)](https://github.com/ODM2/ODM2) (Horsburgh et al., 2016).
 
 
 ### References
