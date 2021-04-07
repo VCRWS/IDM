@@ -25,3 +25,12 @@ Below is the core schema for the IDM. The core of the IDM is based heavily on th
 
 
 ![IDM Diagram](documentation/IDM_diagram.png)
+
+### Credits
+The data model described in this manuscript was developed using data and resources from the [Villanova Center for Resilient Water Systems (VCRWS)](https://www1.villanova.edu/university/engineering/faculty-research/Resilient-Water-Systems.html).  The data model described was inspired by and based on the [Cortsortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI)](https://www.cuahsi.org/) Observation Data Model (ODM) (Horsburgh et al., 2008), and [Observation Data Model 2 (ODM2)](https://github.com/ODM2/ODM2) (Horsburgh et al., 2016).
+
+
+### References
+
+Horsburgh, J. S., Tarboton, D. G., Maidment, D. R., & Zaslavsky, I. (2008). A relational &nbsp;&nbsp;&nbsp;&nbsp;model for environmental and water resources data. Water Resources Research, 44(5). &nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1029/2007WR006392 <br />
+Horsburgh, J. S., Aufdenkampe, A. K., Mayorga, E., Lehnert, K. A., Hsu, L., Song, L., et al. &nbsp;&nbsp;&nbsp;&nbsp;(2016). Observations Data Model 2: A community information model for spatially &nbsp;&nbsp;&nbsp;&nbsp;discrete Earth observations. Environmental Modelling & Software, 79, 55–74. &nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.envsoft.2016.01.010
