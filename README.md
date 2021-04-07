@@ -32,5 +32,5 @@ The data model described in this manuscript was developed using data and resourc
 
 ### References
 
-Horsburgh, J. S., Tarboton, D. G., Maidment, D. R., & Zaslavsky, I. (2008). A relational &nbsp;&nbsp;&nbsp;&nbsp;model for environmental and water resources data. Water Resources Research, 44(5). &nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1029/2007WR006392 <br />
-Horsburgh, J. S., Aufdenkampe, A. K., Mayorga, E., Lehnert, K. A., Hsu, L., Song, L., et al. &nbsp;&nbsp;&nbsp;&nbsp;(2016). Observations Data Model 2: A community information model for spatially &nbsp;&nbsp;&nbsp;&nbsp;discrete Earth observations. Environmental Modelling & Software, 79, 55–74. &nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.envsoft.2016.01.010
+Horsburgh, J. S., Tarboton, D. G., Maidment, D. R., & Zaslavsky, I. (2008). A relational model for environmental and water resources data. Water Resources Research, 44(5). https://doi.org/10.1029/2007WR006392 <br />
+Horsburgh, J. S., Aufdenkampe, A. K., Mayorga, E., Lehnert, K. A., Hsu, L., Song, L., et al. (2016). Observations Data Model 2: A community information model for spatially discrete Earth observations. Environmental Modelling & Software, 79, 55–74. https://doi.org/10.1016/j.envsoft.2016.01.010
