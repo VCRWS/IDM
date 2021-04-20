@@ -1,4 +1,8 @@
 ## Stormwater Infrastructure Data Model (SIDM)
+
+<a href="https://zenodo.org/badge/latestdoi/355217530"><img src="https://zenodo.org/badge/355217530.svg" alt="DOI"></a>
+
+
 The SIDM, constructed similarly to [Observations Data Model](https://doi.org/10.1029/2007WR006392) (established by [CUAHSI](https://www.cuahsi.org/), is a SQL server database that uses relational tables to organize disparate types of data, as well as minimize database size and maximize data retrieval speed. The [Villanova Center for Resilient Water Systems (VCRWS)](https://www1.villanova.edu/university/engineering/faculty-research/Resilient-Water-Systems.html) has created this database to experiment with the organization of their data for deeper and more comprehensive spatio-temporal analysis. The relational format allows for an interface in which time series of dissimilar data from a range of projects can be retrieved and compared; however, the SIDM has added additional tables to build on the [ODM structure](https://github.com/ODM2/ODM2) to focus on stormwater infrastructure data.
 
 
